@@ -18,7 +18,7 @@ from setuptools import setup, find_packages
 
 setup(
 	name = "TwCat",
-	version = "0.1",
+	version = "0.2",
 	url = "http://github.com/myles/twcat",
 	license = "Apache 2.0",
 	description = "Like `cat` but for Twitter.",
